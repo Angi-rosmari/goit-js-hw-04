@@ -15,7 +15,7 @@ const profile = {
   },
 };
 
-// Тестові виклики:
+// Перевірка:
 console.log(profile.getInfo()); // "Jacob has 300 active hours!"
 
 profile.changeUsername('Marco');
